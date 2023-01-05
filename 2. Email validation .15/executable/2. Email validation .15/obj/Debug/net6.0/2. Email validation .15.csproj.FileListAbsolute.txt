@@ -1,0 +1,15 @@
+C:\Users\gisle\Desktop\Code Challenges\cs\2. Email validation .15\executable\2. Email validation .15\bin\Debug\net6.0\2. Email validation .15.exe
+C:\Users\gisle\Desktop\Code Challenges\cs\2. Email validation .15\executable\2. Email validation .15\bin\Debug\net6.0\2. Email validation .15.deps.json
+C:\Users\gisle\Desktop\Code Challenges\cs\2. Email validation .15\executable\2. Email validation .15\bin\Debug\net6.0\2. Email validation .15.runtimeconfig.json
+C:\Users\gisle\Desktop\Code Challenges\cs\2. Email validation .15\executable\2. Email validation .15\bin\Debug\net6.0\2. Email validation .15.dll
+C:\Users\gisle\Desktop\Code Challenges\cs\2. Email validation .15\executable\2. Email validation .15\bin\Debug\net6.0\2. Email validation .15.pdb
+C:\Users\gisle\Desktop\Code Challenges\cs\2. Email validation .15\executable\2. Email validation .15\obj\Debug\net6.0\2. Email validation .15.csproj.AssemblyReference.cache
+C:\Users\gisle\Desktop\Code Challenges\cs\2. Email validation .15\executable\2. Email validation .15\obj\Debug\net6.0\2. Email validation .15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gisle\Desktop\Code Challenges\cs\2. Email validation .15\executable\2. Email validation .15\obj\Debug\net6.0\2. Email validation .15.AssemblyInfoInputs.cache
+C:\Users\gisle\Desktop\Code Challenges\cs\2. Email validation .15\executable\2. Email validation .15\obj\Debug\net6.0\2. Email validation .15.AssemblyInfo.cs
+C:\Users\gisle\Desktop\Code Challenges\cs\2. Email validation .15\executable\2. Email validation .15\obj\Debug\net6.0\2. Email validation .15.csproj.CoreCompileInputs.cache
+C:\Users\gisle\Desktop\Code Challenges\cs\2. Email validation .15\executable\2. Email validation .15\obj\Debug\net6.0\2. Email validation .15.dll
+C:\Users\gisle\Desktop\Code Challenges\cs\2. Email validation .15\executable\2. Email validation .15\obj\Debug\net6.0\refint\2. Email validation .15.dll
+C:\Users\gisle\Desktop\Code Challenges\cs\2. Email validation .15\executable\2. Email validation .15\obj\Debug\net6.0\2. Email validation .15.pdb
+C:\Users\gisle\Desktop\Code Challenges\cs\2. Email validation .15\executable\2. Email validation .15\obj\Debug\net6.0\2. Email validation .15.genruntimeconfig.cache
+C:\Users\gisle\Desktop\Code Challenges\cs\2. Email validation .15\executable\2. Email validation .15\obj\Debug\net6.0\ref\2. Email validation .15.dll
